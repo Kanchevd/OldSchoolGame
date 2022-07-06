@@ -1,2 +1,2 @@
 # OldSchoolGame
-Uni Team Project. Run from "wanderer".
+Uni Team Project.
